@@ -1,3 +1,4 @@
+git clone https://github.com/liaoxingwang/test
 git init 
 git add .
 git commit -m ''
