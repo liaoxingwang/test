@@ -1,1 +1,11 @@
 hello word!
+
+<include>**/*.properties</include>
+<include>**/*.xml</include>
+<include>**/*.tld</include>
+<include>**/*.html</include>
+<include>**/*.css</include>
+<include>**/*.js</include>
+<include>**/*.mp4</include>
+<include>**/*.gif</include>
+<include>**/*.jpg</include>
