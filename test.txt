@@ -1,4 +1,14 @@
 hello word!
+
+/**
+* @Title: ${file_name}
+* @Package ${package_name}
+* @Description: ${todo}(用一句话描述该文件做什么)
+* @author ${user}
+* @date ${date} ${time}
+* @version V1.0
+*/
+
 printf("Hello, world!n");  
 
 <include>**/*.properties</include>
